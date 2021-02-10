@@ -18,5 +18,4 @@ When you create a new task, you have the ability to name it, and assign it a ran
 confidence from 0 to 4. From your own self-confidence, your predicted score will be 
 calculated and displayed on the panel above.
 
-There is also a menu bar that accomplishes all of these functions, as well.
-
+There is also a menu bar that accomplishes all of these functions.
