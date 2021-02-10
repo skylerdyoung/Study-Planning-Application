@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=InputPane2
+comment0.text=\r\n\ \r\n\r\n\ @author\ SkylerYoung\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=InputPane2()
+comment2.params=
+comment2.target=void\ showPane()
+comment3.params=
+comment3.target=void\ printMsgContent()
+comment4.params=
+comment4.target=java.lang.String\ getMsgContent()
+comment5.params=msgContent
+comment5.target=void\ setMsgContent(java.lang.String)
+numComments=6

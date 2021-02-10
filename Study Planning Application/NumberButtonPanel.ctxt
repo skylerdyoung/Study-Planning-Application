@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NumberButtonPanel
+comment0.text=\r\n\ The\ NumberButtonPanel\ class\r\n\r\n\ @author\ Skyler\ Young\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=NumberButtonPanel()
+comment1.text=\r\n\ The\ constructor\ for\ NumberButtonPanel\r\n
+comment2.params=
+comment2.target=javax.swing.JButton\ getButton()
+comment3.params=
+comment3.target=int\ getButtonValue()
+comment4.params=buttonValue
+comment4.target=void\ setButtonValue(int)
+numComments=5

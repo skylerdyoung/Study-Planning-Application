@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TaskItem
+comment0.text=\r\n\ The\ TaskItem\ class.\r\n\r\n\ @author\ Skyler\ Young\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=TaskItem()
+comment1.text=\r\n\ The\ constructor\ for\ the\ TaskItem\ class\r\n
+comment2.params=
+comment2.target=javax.swing.JButton\ getNumButton()
+comment2.text=\r\n\ retrieves\ the\ numButton\ from\ NumberButtonPanel\r\n
+comment3.params=
+comment3.target=int\ getButtonValue()
+comment3.text=\r\n\ retrieves\ the\ buttonValue\ of\ numButton\r\n
+comment4.params=
+comment4.target=NumberButtonPanel\ getButtonPanel()
+comment5.params=
+comment5.target=TextPanel\ getTextPanel()
+comment6.params=name
+comment6.target=void\ setTaskName(java.lang.String)
+numComments=7

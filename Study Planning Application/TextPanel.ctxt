@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TextPanel
+comment0.text=\r\n\ The\ TextPanel\ class\r\n\r\n\ @author\ SkylerYoung\r\n\ @version\ 1.0\r\n
+comment1.params=selector
+comment1.target=TextPanel(int)
+comment1.text=\r\n\ Constructor\ for\ the\ TextPanel\ class\r\n
+comment2.params=
+comment2.target=javax.swing.JTextArea\ getTextArea()
+comment3.params=
+comment3.target=void\ setCaret()
+comment4.params=
+comment4.target=void\ setCaret2()
+numComments=5

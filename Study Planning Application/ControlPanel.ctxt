@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ControlPanel
+comment0.text=\r\n\ The\ ControlPanel\ class.\r\n\r\n\ @author\ Skyler\ Young\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=ControlPanel()
+comment1.text=\r\n\ Constructor\ for\ the\ ControlPanel\ class\r\n
+comment2.params=
+comment2.target=javax.swing.JButton\ getAddButton()
+comment2.text=\r\n\ retrieves\ the\ button\ from\ the\ addButton\ panel\r\n
+comment3.params=
+comment3.target=javax.swing.JButton\ getRemoveButton()
+comment3.text=\r\n\ retrieves\ the\ button\ from\ the\ removeButton\ panel\r\n
+comment4.params=
+comment4.target=LabelPanel\ getTotal()
+comment4.text=\r\n\ retrieves\ the\ numTotal\ label\ from\ LabelPanel\r\n
+numComments=5

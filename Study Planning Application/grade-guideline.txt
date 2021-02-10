@@ -1,0 +1,5 @@
+0 = No knowledge whatsoever
+1 = Familiar with topic
+2 = Know how it works but struggle solving problem
+3 = Can solve the problem
+4 = Can solve the problem easily

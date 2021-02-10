@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=LabelPanel
+comment0.text=\r\n\ The\ LabelPanel\ class\r\n\r\n\ @author\ Skyler\ Young\r\n\ @version\ 1.0\r\n
+comment1.params=name\ labelOption
+comment1.target=LabelPanel(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ the\ LabelPanel\ class\r\n
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment2.text=\r\n\ Sets\ the\ text\ value\ for\ the\ label\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4

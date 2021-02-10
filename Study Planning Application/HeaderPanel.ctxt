@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=HeaderPanel
+comment0.text=\r\n\ The\ MainPanel\ class.\r\n\r\n\ @author\ Skyler\ Young\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=HeaderPanel()
+comment1.text=\r\n\ Constructor\ for\ the\ HeaderPanel\ class\r\n
+comment2.params=
+comment2.target=TextPanel\ getTextPanel()
+comment3.params=
+comment3.target=javax.swing.JTextArea\ getTextArea()
+comment4.params=
+comment4.target=LabelPanel\ getLabelPanel()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+numComments=6

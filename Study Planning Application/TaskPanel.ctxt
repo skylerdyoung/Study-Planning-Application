@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TaskPanel
+comment0.text=\r\n\r\n\r\n\ @author\ Skyler\ Young\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=TaskPanel()
+comment1.text=\r\n\ Constructor\ for\ the\ TaskPanel\ class\r\n
+comment2.params=
+comment2.target=java.util.HashSet\ getSet()
+comment2.text=\r\n\ retrieves\ the\ taskSet\r\n
+comment3.params=
+comment3.target=void\ clearSet()
+comment3.text=\r\n\ clears\ the\ taskSet\r\n
+comment4.params=
+comment4.target=void\ printSet()
+comment4.text=\r\n\ prints\ the\ taskSet\r\n
+numComments=5
