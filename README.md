@@ -1,1 +1,1 @@
-This is a desktop application written in Java for the purpose of tracking your study sessions.
+This is a desktop application written in Java that lets you track your progress while studying.
